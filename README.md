@@ -1,6 +1,7 @@
 
 ปฐมพงศ์ วนาสันติพงศ์ 6210612856
 
+clip demo: https://youtu.be/knC7wr9V1-Q
 
 1.1 Interface ทั่วไป
 
